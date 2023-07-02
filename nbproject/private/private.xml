@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/dao/AnswerDAO.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/utils/XJdbc.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/ui/ExamDetailJDialog.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/utils/AuthOfLecturer.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/utils/XDate.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/dao/PersonDAO.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/entity/Answer.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/dao/ExamDAO.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/utils/AuthOfStudent.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/utils/MsgBox.java</file>
+            <file>file:/D:/DuAn/PRO1041_DuAn1/QuizApp/src/QuizSystem/dao/LecturerDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
